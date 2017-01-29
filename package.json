@@ -1,0 +1,18 @@
+{
+  "name": "NodeSantaBot",
+  "version": "1.0.0",
+  "description": "Santa Bot Experiment",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "botbuilder": "^3.4.4",
+    "dotenv": "^2.0.0",
+    "moment": "^2.17.1",
+    "momentjs": "^2.0.0",
+    "restify": "^4.3.0"
+  }
+}
